@@ -1,5 +1,7 @@
 ## Vectorizer
 
+[Medium Article](https://medium.com/@aleksgladun4/implementing-vector-similarity-search-engine-ee626b84bc5)
+
 ### Intro
 Vectorizer is a simple service that creates embeddings from your text data, stores vectors in memory along with their text associations and performs similarity search. 
 
